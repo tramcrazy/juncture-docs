@@ -18,13 +18,13 @@ The year 1944 was one of wide and devastating humanitarian loss for Kent, partic
        url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
 Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians, both across the period in which these bombs were heavily utilised, and the immediate instance in which they appeared in the sky. This immediate sense of terror was conjured by the eerie noise accompanying a doodlebug’s flight and the anticipation involved in listening for its buzzing noise to stop momentarily, which meant the bomb was about to fall. Peter, a resident in Kent during the war, describes his experience of this:
-
-> "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" - Peter Kitcherside, 2005, WW2 People's War.[^ref1]
 <param ve-image 
        label="V-1 flying bomb" 
        description="The Fiesler 103R bomb" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fieseler_Fi_103R_Reichenberg.jpg">
+
+> "I remember them very clearly. They made a sound like a lorry engine going very fast. They kept flying until they ran out of fuel. Then they simply fell to the ground and exploded. Whenever we heard a doodlebug everyone looked up and followed it with their eyes until it had gone over past where we were standing. If the engine stopped before it got to us that was the time to worry! Sometimes a doodlebug dropped to earth immediately and sometimes it would continue to glide, gradually losing height. Very scary!" - Peter Kitcherside, 2005, WW2 People's War.[^ref1]
 
 Peter goes on to say that by September 1944, Germans were sending out huge, rocket-engine fuelled V-2 bombs, which were much faster than V-1s – with doodlebugs flying at around 400mph, and V-2s able to travel at the speed of sound, meaning they could not be heard. Peter says this made them much more deadly in their impact, but to him, 'not as scary' as doodlebugs.[^ref2]
 
