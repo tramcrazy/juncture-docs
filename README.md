@@ -11,6 +11,11 @@
 <param ve-entity title="Britain" eid="Q145">
 <param ve-entity title="Orpington" eid="Q123977">
 The year 1944 was one of wide and devastating humanitarian loss for Kent, particularly due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans towards the end of WW2: the V-1 flying bomb, also known as the doodlebug. Nicknamed thus because of its erratic movement and the buzzing noise which signalled its arrival overhead, the doodlebug was a flying bomb powered by a jet engine. The heavy bombing of Kent with 2,400 doodlebugs in the Summer of 1944 would lead to this period being known retrospectively as ‘Doodlebug Summer’.
+<param ve-image 
+       label="Kent map" 
+       description="A map of the area" 
+       license="Creative Commons Attribution Share-Alike 3.0 Unported" 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/fd/Kent_UK_location_map.svg">
 
 Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians, both across the period in which these bombs were heavily utilised, and the immediate instance in which they appeared in the sky. This immediate sense of terror was conjured by the eerie noise accompanying a doodlebug’s flight and the anticipation involved in listening for its buzzing noise to stop momentarily, which meant the bomb was about to fall. Peter, a resident in Kent during the war, describes his experience of this:
 
