@@ -8,7 +8,7 @@
 <param ve-entity title="Sophia" eid="Q26921368">
 <param ve-entity title="Thomas Coutts" eid="Q7788650">
 <param ve-entity title="1837" eid="Q7608">
-<param ve-entity title="Princess Victoria" eid="Q9439" aliases="Queen Victoria">
+<param ve-entity title="Princess Victoria" eid="Q9439" aliases="Princess Victoria|Queen Victoria">
 <param ve-entity title="Duke of Wellington" eid="Q131691">
 <param ve-entity title="Dickens" eid="Q5686">
 <param ve-entity title="Walmer Castle" eid="Q2543161">
@@ -37,7 +37,7 @@
 <param ve-entity title="Margate" eid="Q618045">
 <param ve-entity title="W. H. Wills" eid="Q15092885">
 <param ve-entity title="1881" eid="Q7808">
-<param ve-entity title="William Bartlett" eid="Q8006140" aliases="William Burdett-Coutts-Bartlett|Bartlett">
+<param ve-entity title="William Bartlett" eid="Q8006140" aliases="William Bartlett|William Burdett-Coutts-Bartlett|Bartlett">
 <param ve-entity title="Canterbury" eid="Q29303">
 <param ve-entity title="Ashford" eid="Q725261">
 <param ve-entity title="Westminster Abbey" eid="Q5933">
