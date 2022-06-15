@@ -28,19 +28,19 @@
 <param ve-entity title="Maidstone" eid="Q213180">
 <param ve-entity title="Rochester" eid="Q507517">
 <param ve-entity title="1850" eid="Q7653">
-<param ve-entity title="David Copperfield" eid="Q189811" aliases="">
-<param ve-entity title="Fort House" eid="Q4925737" aliases="">
-<param ve-entity title="Ramsgate" eid="Q736439" aliases="">
-<param ve-entity title="Thanet" eid="Q1752642" aliases="">
-<param ve-entity title="Goodwin Sands" eid="Q1494482" aliases="">
-<param ve-entity title="1859" eid="Q7687" aliases="">
-<param ve-entity title="Margate" eid="Q618045" aliases="">
-<param ve-entity title="W. H. Wills" eid="Q15092885" aliases="">
-<param ve-entity title="1881" eid="Q7808" aliases="">
+<param ve-entity title="David Copperfield" eid="Q189811">
+<param ve-entity title="Fort House" eid="Q4925737">
+<param ve-entity title="Ramsgate" eid="Q736439">
+<param ve-entity title="Thanet" eid="Q1752642">
+<param ve-entity title="Goodwin Sands" eid="Q1494482">
+<param ve-entity title="1859" eid="Q7687">
+<param ve-entity title="Margate" eid="Q618045">
+<param ve-entity title="W. H. Wills" eid="Q15092885">
+<param ve-entity title="1881" eid="Q7808">
 <param ve-entity title="William Bartlett" eid="Q8006140" aliases="William Burdett-Coutts-Bartlett|Bartlett">
-<param ve-entity title="Canterbury" eid="Q29303" aliases="">
-<param ve-entity title="Ashford" eid="Q725261" aliases="">
-<param ve-entity title="Westminster Abbey" eid="Q5933" aliases="">
+<param ve-entity title="Canterbury" eid="Q29303">
+<param ve-entity title="Ashford" eid="Q725261">
+<param ve-entity title="Westminster Abbey" eid="Q5933">
 
 Angela Burdett was the daughter of Sir Francis Burdett and his wife Sophia (whose father was Thomas Coutts the banker). Angela’s accession to the fabulous Coutts fortune, as well as the family name, in 1837 led to her becoming one of the most admired as well as one of the most generous philanthropists of her time. It also coincided with the still more memorable coronation of another wealthy young woman, [Princess Victoria](/19c/19c-victoria-biography). Burdett-Coutts – or Miss Coutts, as she was often known – would become the intimate friend (although rejected suitor) of the considerably older Duke of Wellington, whom she visited on several occasions at Walmer Castle. For many years she also worked closely with [Dickens](/dickens) on his ‘home for homeless women’ in London.
 
