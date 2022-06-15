@@ -10,7 +10,7 @@
 <param ve-entity title="1837" eid="Q7608">
 <param ve-entity title="Princess Victoria" eid="Q9439" aliases="Princess Victoria|Queen Victoria">
 <param ve-entity title="Duke of Wellington" eid="Q131691">
-<param ve-entity title="Dickens" eid="Q5686">
+<param ve-entity title="Dickens" eid="Q5686" aliases="Dickens's">
 <param ve-entity title="Walmer Castle" eid="Q2543161">
 <param ve-entity title="London" eid="Q84">
 <param ve-entity title="Kent" eid="Q23298">
