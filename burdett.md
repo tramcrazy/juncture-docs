@@ -60,6 +60,7 @@ In October 1850, [Dickens](/dickens) was writing the last pages of [_David Coppe
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg">
 
 Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seascape of Thanet, and she would have been aware of the perils caused by the notorious [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). In 1859 she presented the people of [Margate](/19c/19c-margate) with a lifeboat, which arrived by train and was duly processed through the town under the protection of her secretary ([Dickens](/dickens)’s former editor W. H. Wills), accompanied by the town crier and members of the corporation, with a banner announcing the donation of the ‘Angela and Hannah'.[^ref5]
+<param ve-map center="Q618045" zoom="10">
 
 Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 year old William Bartlett, who then became William Burdett-Coutts-Bartlett. The newspapers stuck closely to the more conventional aspects of this union, noting that the newly married pair went to Ashford Church, where the bride was ‘affable, and talked to everybody she met there. Late in the afternoon the Baroness and her husband left for [Canterbury](/19c/19c-canterbury)’ so that she could be closer to her medical attendant (‘Local intelligence’), before spending the rest of the honeymoon at Bartlett’s home of Ingledon in Ashford.
 
