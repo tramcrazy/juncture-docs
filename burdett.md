@@ -89,6 +89,11 @@ Healey, Edna. Angela Georgina Burdett. _Oxford Dictionary of National Biography_
 Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
 
 --. _The Pilgrim Edition: The Letters of Charles Dickens_. Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
+<param ve-image 
+       label="Escutcheon of Angela Burdett-Coutts" 
+       description="The personal emblem of Burdett-Coutts" 
+       license="Public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/5/54/Angela_Burdett-Coutts.gif">
 
 # References
 [^ref1]: To Miss Burdett-Coutts. 26 August 1847. Pilgrim 5. 152-3.
