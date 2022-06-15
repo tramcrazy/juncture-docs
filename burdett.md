@@ -86,7 +86,8 @@ Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Cha
        label="Escutcheon of Angela Burdett-Coutts" 
        description="The personal emblem of Burdett-Coutts" 
        license="Public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/54/Angela_Burdett-Coutts.gif">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/54/Angela_Burdett-Coutts.gif"
+       fit="contain">
 
 # References
 [^ref1]: To Miss Burdett-Coutts. 26 August 1847. Pilgrim 5. 152-3.
