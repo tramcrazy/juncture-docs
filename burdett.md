@@ -74,21 +74,14 @@ In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: pro
 
 
 # Bibliography
-Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.
-
-Healey, Edna. Angela Georgina Burdett. _Oxford Dictionary of National Biography_. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-32175  Accessed 29 May 2022.
-
---. _Lady Unknown: The Life of Angela Burdett-Coutts_. Sidgwick and Jackson, 1978.
-
-‘Local Intelligence’. _Exeter and Plymouth Gazette Daily Telegrams_. 7 March 1881. 2.
-
-‘Margate. Inauguration of the Life Boat Presented by Miss Burdett Coutts.’ _Kentish Gazette_. 22 March 1859. 3.
-
-‘Marriage of the Baroness Burdett-Coutts’. _Essex Newsman_. 19 February 1881. 3.
-
-Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
-
---. _The Pilgrim Edition: The Letters of Charles Dickens_. Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.
+Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.   
+Healey, Edna. Angela Georgina Burdett. _Oxford Dictionary of National Biography_. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-32175  Accessed 29 May 2022.   
+--. _Lady Unknown: The Life of Angela Burdett-Coutts_. Sidgwick and Jackson, 1978.   
+‘Local Intelligence’. _Exeter and Plymouth Gazette Daily Telegrams_. 7 March 1881. 2.   
+‘Margate. Inauguration of the Life Boat Presented by Miss Burdett Coutts.’ _Kentish Gazette_. 22 March 1859. 3.   
+‘Marriage of the Baroness Burdett-Coutts’. _Essex Newsman_. 19 February 1881. 3.   
+Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Charles Dickens._ Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
+--. _The Pilgrim Edition: The Letters of Charles Dickens_. Volume 5: 1847-1849. Oxford: Clarendon Press, 1977.   
 <param ve-image 
        label="Escutcheon of Angela Burdett-Coutts" 
        description="The personal emblem of Burdett-Coutts" 
