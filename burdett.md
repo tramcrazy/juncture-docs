@@ -66,6 +66,12 @@ Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 
 <param ve-map center="Q725261" zoom="10">
 
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
+<param ve-image 
+       label="Westminster Abbey" 
+       description="Image of Westminster Abbey" 
+       license="Creative Commons Attribution-Share Alike 3.0 Unported" 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Westminster_Abbey._City_of_Westminster.jpg">
+
 
 # Bibliography
 Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.
