@@ -43,3 +43,8 @@ The festivities of Christmas were believed by the Puritan government under Olive
 <param ve-map center="Q184775" zoom="8">
 
 The aftermath was that the citizens were to be tried and punished – however Kent’s grand jury refused to indict them. The following celebrations and protests led to a petition hoping to reconcile the Royalists and the Parliamentarians, which did not succeed. The spirit of rebellion continued and would lead to the battle of Maidstone, which ended in a terrible defeat for the people of Kent and the Royalist cause.
+<param ve-image 
+       label="A pike charge"
+       description="A pike charge during a re-enactment of the Battle of Maidstone"
+       license="Creative Commons Attribution-Share Alike 3.0 Unported" 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Pike_Charge_Battle_of_Maidstone_Military_Odyssey.jpg">
