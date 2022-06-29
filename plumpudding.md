@@ -30,6 +30,7 @@ Shopkeepers forced to keep their shops open on Christmas Day fought back against
        label="Whitefriars Street, Canterbury" 
        license="Creative Commons Attribution-Share Alike 2.0 Generic" 
        url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Canterbury%2C_Whitefriars_Street_-_geograph.org.uk_-_3228327.jpg">
+
 As he moved through the streets, the Lord Mayor was affronted by a gathering crowd and after ordering his pikemen to remain where they were, a mob started, with goods from shops being thrown over their heads and landing on the ground.
 <param ve-image 
        label="A pikeman" 
