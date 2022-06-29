@@ -40,6 +40,6 @@ As he moved through the streets, the Lord Mayor was affronted by a gathering cro
 A shopkeeper who closed his shop was told by the Lord Mayor to stay open under the threat of the stocks. The mob retaliated by throwing the Lord Mayor to the ground, where he was covered in mud and his clothes ruined. After getting to his feet and silencing the crowd, a game of football broke out in the streets with two inflated pig bladders!
 
 The festivities of Christmas were believed by the Puritan government under Oliver Cromwell to be a Roman Catholic celebration and to encourage unnecessary celebration and debauchery. The riots were a ‘last-straw’ reaction against all the restrictions imposed upon the citizens of Canterbury, including the removal of food thought to be for feasts by soldiers. Similar riots took place in Norwich and Ipswich.
-<param ve-map center="Q184775" zoom="7">
+<param ve-map center="Q184775" zoom="8">
 
 The aftermath was that the citizens were to be tried and punished – however Kent’s grand jury refused to indict them. The following celebrations and protests led to a petition hoping to reconcile the Royalists and the Parliamentarians, which did not succeed. The spirit of rebellion continued and would lead to the battle of Maidstone, which ended in a terrible defeat for the people of Kent and the Royalist cause.
