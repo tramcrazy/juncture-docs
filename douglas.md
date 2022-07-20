@@ -28,15 +28,15 @@
 <param ve-entity title="France" eid="Q142">
 Keith Douglas was a soldier and a war poet who fought in and wrote about World War 2. Some of his most notable works was his military memoir 'Alamein to Zem Zem', which was published 2 years after his death, in 1946, as well as 'Desert Flower', published in 1943.
 
-Life and Death
+# Life and Death
 - He was born on 24th January 1920, in Tunbridge Wells, Kent.
 - He was killed in action when fighting in the invasion of Normandy on 9th June 1944, merely 24 years old.
 
-Early Life:
+# Early Life
 Douglas experienced a bleak childhood growing up; when he was 4 years old, his mother collapsed of 'encephalitis lethargica', (a condition often dubbed as 'the sleeping sickness'), which she never fully recovered from, and he had a strained relationship with his father. His parents separated 2 years later, and Douglas spent most of his school years in boarding schools.
 
-Education:
+# Education
 Douglas then completed the entrance exam to Christ's Hospital, which was a charity school, and attended from 1931-1938; it was there that his poetic abilities were recognised and nurtured. He then completed his university at Oxford, with a degree in History and English.
 
-Military Service:
+# Military Service
 Douglas was eager to join the military service and signed up mere days after the declaration of war, but it was not until July 1940 when he started his training. He completed his training at the renowned Royal Military College Sandhurst. After being positioned at various areas of Northern Africa, Douglas, who was now Captain, returned to England in 1943 and took part of the D-Day invasion of Normandy, where he unfortunately lost his life. He was temporarily buried by a hedge close to where he died, by Captain Leslie Skinner, before being relocated to the Tilly-sur-Seulles War Cemetery in Normandy, France.
