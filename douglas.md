@@ -30,7 +30,7 @@ Keith Douglas was a soldier and a war poet who fought in and wrote about World W
 
 # Life and Death
 Douglas was born on 24th January 1920, in Tunbridge Wells, Kent. He was killed in action when fighting in the invasion of Normandy on 9th June 1944, merely 24 years old.
-<param ve-map center="Q34640" zoom="9">
+<param ve-map center="Q34640" zoom="7">
 
 # Early Life
 Douglas experienced a bleak childhood growing up; when he was 4 years old, his mother collapsed of encephalitis lethargica (a condition often dubbed as 'the sleeping sickness'), which she never fully recovered from, and he had a strained relationship with his father. His parents separated 2 years later, and Douglas spent most of his school years in boarding schools.
