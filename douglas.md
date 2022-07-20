@@ -15,17 +15,17 @@
 <param ve-entity title="1944" eid="Q5268">
 <param ve-entity title="encephalitis lethargica" eid="Q3053951" aliases="">
 <param ve-entity title="Christ's Hospital" eid="Q677579">
-<param ve-entity title="1931" eid="" aliases="">
-<param ve-entity title="1938" eid="" aliases="">
-<param ve-entity title="Oxford" eid="" aliases="">
-<param ve-entity title="1940" eid="" aliases="">
-<param ve-entity title="Royal Military College Sandhurst" eid="" aliases="">
-<param ve-entity title="Northern Africa" eid="" aliases="">
-<param ve-entity title="Captain" eid="" aliases="">
-<param ve-entity title="D-Day" eid="" aliases="">
-<param ve-entity title="Tilly-sur-Seulles War Cemetery" eid="" aliases="">
-<param ve-entity title="Normandy" eid="" aliases="">
-<param ve-entity title="France" eid="" aliases="">
+<param ve-entity title="1931" eid="Q18782">
+<param ve-entity title="1938" eid="Q18645">
+<param ve-entity title="Oxford" eid="Q34433">
+<param ve-entity title="1940" eid="Q18633">
+<param ve-entity title="Royal Military College Sandhurst" eid="Q17020147">
+<param ve-entity title="Northern Africa" eid="Q27381">
+<param ve-entity title="Captain" eid="Q19100">
+<param ve-entity title="D-Day" eid="Q16470">
+<param ve-entity title="Tilly-sur-Seulles War Cemetery" eid="Q17624909">
+<param ve-entity title="Normandy" eid="Q15878">
+<param ve-entity title="France" eid="Q142">
 Keith Douglas was a soldier and a war poet who fought in and wrote about World War 2. Some of his most notable works was his military memoir 'Alamein to Zem Zem', which was published 2 years after his death, in 1946, as well as 'Desert Flower', published in 1943.
 
 Life and Death
