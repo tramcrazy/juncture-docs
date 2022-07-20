@@ -45,3 +45,8 @@ Douglas then completed the entrance exam to Christ's Hospital, which was a chari
 
 # Military Service
 Douglas was eager to join the military service and signed up mere days after the declaration of war, but it was not until July 1940 when he started his training. He completed his training at the renowned Royal Military College Sandhurst. After being positioned at various areas of Northern Africa, Douglas, who was now Captain, returned to England in 1943 and took part of the D-Day invasion of Normandy, where he unfortunately lost his life. He was temporarily buried by a hedge close to where he died, by Captain Leslie Skinner, before being relocated to the Tilly-sur-Seulles War Cemetery in Normandy, France.
+<param ve-image 
+       label="Royal Military College, Sandhurst - pictured in 1900" 
+       description="A photo of the Royal Military College taken in 1900" 
+       license="Public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/01/Royal_Military_Academy_Sandhurst_1900.JPG">
