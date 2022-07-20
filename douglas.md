@@ -13,7 +13,7 @@
 <param ve-entity title="Kent" eid="Q23298">
 <param ve-entity title="invasion of Normandy" eid="Q16471">
 <param ve-entity title="1944" eid="Q5268">
-<param ve-entity title="encephalitis lethargica" eid="Q3053951" aliases="">
+<param ve-entity title="encephalitis lethargica" eid="Q3053951">
 <param ve-entity title="Christ's Hospital" eid="Q677579">
 <param ve-entity title="1931" eid="Q18782">
 <param ve-entity title="1938" eid="Q18645">
