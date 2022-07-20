@@ -34,6 +34,11 @@ Douglas was born on 24th January 1920, in Tunbridge Wells, Kent. He was killed i
 
 # Early Life
 Douglas experienced a bleak childhood growing up; when he was 4 years old, his mother collapsed of encephalitis lethargica (a condition often dubbed as 'the sleeping sickness'), which she never fully recovered from, and he had a strained relationship with his father. His parents separated 2 years later, and Douglas spent most of his school years in boarding schools.
+<param ve-image 
+       label="Oxford" 
+       description="An aerial view of Oxford's old city centre" 
+       license="Public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Oxford_City_Birdseye.jpg">
 
 # Education
 Douglas then completed the entrance exam to Christ's Hospital, which was a charity school, and attended from 1931-1938; it was there that his poetic abilities were recognised and nurtured. He then completed his university at Oxford, with a degree in History and English.
